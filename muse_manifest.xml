@@ -1,0 +1,33 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="randjdobalt.com" resolutions="1x" timestamp="1454087864610">
+  <folder name="css">
+    <file name="site_global.css" crc="516822371"/>
+    <file name="master_a-master.css" crc="3948284200" ref="jen:issues:kristina:store:jerry:creators:index"/>
+    <file name="jen.css" crc="3836918481" ref="jen"/>
+    <file name="issues.css" crc="3836918481" ref="issues"/>
+    <file name="kristina.css" crc="185413121" ref="kristina"/>
+    <file name="store.css" crc="3836918481" ref="store"/>
+    <file name="jerry.css" crc="3836918481" ref="jerry"/>
+    <file name="creators.css" crc="3836918481" ref="creators"/>
+    <file name="index.css" crc="415298929" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:creators:issues:store:jerry:jen:kristina"/>
+    <file name="museutils.js" crc="275725342" ref="index:creators:issues:store:jerry:jen:kristina"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:creators:issues:store:jerry:jen:kristina"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:creators:issues:store:jerry:jen:kristina"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:creators:issues:store:jerry:jen:kristina"/>
+  </folder>
+  <folder name="images">
+    <file name="richar_logo.png" crc="3795992435" seo="true" ref="index:creators:issues:store:jerry:jen:kristina"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="richardandjanet.jpg" crc="227237120" seo="true" ref="index"/>
+    <file name="12087177_10100110009024961_6764559176861730981_o.jpg" crc="3899426175" seo="true" ref="kristina"/>
+  </folder>
+  <file name="index.html" crc="3795221543" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="creators.html" crc="4177564057" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="issues.html" crc="3843734184" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="store.html" crc="3929267179" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="jerry.html" crc="311805342" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="jen.html" crc="3900767597" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="kristina.html" crc="3989535682" seo="true" mt="1454026725274" redirect="true"/>
+</manifest>
