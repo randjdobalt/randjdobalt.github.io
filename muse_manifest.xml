@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="randjdobalt.com" resolutions="1x" timestamp="1454087864610">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="randjdobalt.com" resolutions="1x" timestamp="1454091552438">
   <folder name="css">
-    <file name="site_global.css" crc="516822371"/>
-    <file name="master_a-master.css" crc="3948284200" ref="jen:issues:kristina:store:jerry:creators:index"/>
-    <file name="jen.css" crc="3836918481" ref="jen"/>
-    <file name="issues.css" crc="3836918481" ref="issues"/>
-    <file name="kristina.css" crc="185413121" ref="kristina"/>
+    <file name="site_global.css" crc="3764807977"/>
+    <file name="master_a-master.css" crc="461736770" ref="store:jerry:kristina:jen:index:issues:creators"/>
     <file name="store.css" crc="3836918481" ref="store"/>
     <file name="jerry.css" crc="3836918481" ref="jerry"/>
-    <file name="creators.css" crc="3836918481" ref="creators"/>
+    <file name="kristina.css" crc="185413121" ref="kristina"/>
+    <file name="jen.css" crc="3836918481" ref="jen"/>
     <file name="index.css" crc="415298929" ref="index"/>
+    <file name="issues.css" crc="3836918481" ref="issues"/>
+    <file name="creators.css" crc="3836918481" ref="creators"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:creators:issues:store:jerry:jen:kristina"/>
@@ -20,14 +20,14 @@
   <folder name="images">
     <file name="richar_logo.png" crc="3795992435" seo="true" ref="index:creators:issues:store:jerry:jen:kristina"/>
     <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
-    <file name="richardandjanet.jpg" crc="227237120" seo="true" ref="index"/>
+    <file name="richardandjanet.jpg" crc="3783740289" seo="true" ref="index"/>
     <file name="12087177_10100110009024961_6764559176861730981_o.jpg" crc="3899426175" seo="true" ref="kristina"/>
   </folder>
-  <file name="index.html" crc="3795221543" seo="true" mt="1454026725274" redirect="true"/>
-  <file name="creators.html" crc="4177564057" seo="true" mt="1454026725274" redirect="true"/>
-  <file name="issues.html" crc="3843734184" seo="true" mt="1454026725274" redirect="true"/>
-  <file name="store.html" crc="3929267179" seo="true" mt="1454026725274" redirect="true"/>
-  <file name="jerry.html" crc="311805342" seo="true" mt="1454026725274" redirect="true"/>
-  <file name="jen.html" crc="3900767597" seo="true" mt="1454026725274" redirect="true"/>
-  <file name="kristina.html" crc="3989535682" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="index.html" crc="484451157" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="creators.html" crc="208030383" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="issues.html" crc="4127731713" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="store.html" crc="4179710274" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="jerry.html" crc="351809928" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="jen.html" crc="4008511867" seo="true" mt="1454026725274" redirect="true"/>
+  <file name="kristina.html" crc="3780470588" seo="true" mt="1454026725274" redirect="true"/>
 </manifest>
